@@ -5,4 +5,4 @@ Look through the map and find yoruself wherever u are in the world.
 This Google Map App will allow u to access your current location and to see the whole world.
 
 
-Change the 
+Change the mapType and see the different types of map.
